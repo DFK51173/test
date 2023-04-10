@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# amplifyapp" 
 "# Test1-implifyapp" 
 "# Test1-implifyapp" 
+"# Test1-AMPLIFYAPP" 
